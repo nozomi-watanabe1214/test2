@@ -1,6 +1,6 @@
 .box0 img{
     width: 30%;
-    height: 30%;
+    height: 25%;
     padding-left: 30px;
 }
 
@@ -70,12 +70,12 @@ main{
     width: 60%;
     height: 1180px;
     padding-left: 10px;
-    margin-left: 4px;
+    margin-left: 5px;
 }
 .right h3{
     border-bottom: 3px solid lightgray;
     margin-left: 3px;
-    margin-right: 40px;
+    margin-right: 50px;
 }
 .right p{
     margin-left: 20px;
