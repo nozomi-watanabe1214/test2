@@ -14,7 +14,7 @@ h1{
 form{
     margin: 0 auto;
     background-color: whitesmoke;
-    border: 3px lightgray solid;
+    border: 5px lightgray solid;
     border-radius: 10px;
     width: 600px;
 }
@@ -36,5 +36,5 @@ form div{
     color: white;
     background-color: darkgray;
     border-radius: 5px;
-    border-bottom: 2px gray solid;
+    border-bottom: 3px gray solid;
 }
