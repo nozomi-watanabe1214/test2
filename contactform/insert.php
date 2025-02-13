@@ -11,7 +11,7 @@ values('".$_POST['name']."','".$_POST['mail']."','".$_POST['age']."','".$_POST['
 <html lang = "ja">
 <head>
     <meta charset = "utf-8">
-    <title>お問い合わせフォームを作る</title>
+    <title>お問い合わせフォームを作成</title>
     <link rel = "stylesheet" type = "text/css" href = "style2.css">
 </head>
     <body>
